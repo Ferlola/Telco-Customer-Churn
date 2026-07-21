@@ -300,12 +300,6 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ---
 
-## ✨ Autor
 
-**Científico de Datos Senior**
-
-Proyecto desarrollado como parte de un portafolio profesional de Ciencia de Datos, siguiendo la metodología CRISP-DM y mejores prácticas de MLOps.
-
----
 
 *"Predecir para retener, analizar para crecer."*
