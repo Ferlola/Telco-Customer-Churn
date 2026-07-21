@@ -182,8 +182,8 @@ Características:
 
 ```bash
 # Clonar repositorio
-git clone https://github.com/tu-usuario/telco-customer-churn.git
-cd telco-customer-churn
+git clone https://github.com/Ferlola/Telco-Customer-Churn.git
+cd Telco-Customer-Churn
 
 # Crear entorno virtual
 python -m venv venv
